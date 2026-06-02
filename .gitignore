@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+ddsm_images/
+ddsm_csv/
+result_ckp/
+*.pth
+*.pt
+*.ckpt
+
+models/ckp/
