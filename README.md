@@ -1,6 +1,6 @@
-# Double-View GMIC for DDSM
+# Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem
 
-This project trains and evaluates a double-view GMIC model for mammography classification. The main training entry is `train_ddsm_ours.py`; the core model is `GMIC/src/modeling/double_gmic.py`, where the final fusion classifier uses `KAN` from `models/KANLinear.py`.
+This project trains and evaluates a MammoCRKAN model for mammography classification. The main training entry is `train_ddsm_ours.py`; the core model is `GMIC/src/modeling/double_gmic.py`, where the final fusion classifier uses `KAN` from `models/KANLinear.py`.
 
 ## Environment
 
